@@ -1,0 +1,22 @@
+-----GDB Server start settings-----
+GDBInit file:                  none
+GDB Server Listening port:     2331
+SWO raw output listening port: 2332
+Terminal I/O port:             2333
+Accept remote connection:      localhost only
+Generate logfile:              on
+Verify download:               off
+Init regs on start:            on
+Silent mode:                   on
+Single run mode:               on
+Target connection timeout:     5 sec.
+------J-Link related settings------
+J-Link Host interface:         USB
+J-Link script:                 none
+J-Link settings file:          none
+------Target related settings------
+Target device:                 Cortex-M0
+Target interface:              SWD
+Target interface speed:        4000kHz
+Target endian:                 little
+
